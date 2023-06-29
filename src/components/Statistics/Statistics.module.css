@@ -1,0 +1,11 @@
+.stList {
+  list-style: none;
+}
+.stItem {
+  padding-bottom: 3px;
+}
+.stName {
+  font-weight: 600;
+  padding-right: 3px;
+  font-size: 17px;
+}
